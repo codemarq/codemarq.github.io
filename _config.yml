@@ -10,9 +10,9 @@ title: John-Mike Marquardt
 email: jmmarquardt@gmail.com
 description:  I am an awesome front-end developer that used to be a chemist, chromatographer and engineer.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://CodeMarq.github.io" # the base hostname & protocol for your site
+url: "https://codemarq.github.io" # the base hostname & protocol for your site
 twitter_username: Super_johnmike
 github_username:  codemarq
 
 # Build settings
-markdown: sublime
+markdown: kramdown
