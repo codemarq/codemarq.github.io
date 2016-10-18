@@ -12,7 +12,7 @@ url: "https://codemarq.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /
 
 # Google tracking id
 
@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John-Mike Marquardt }"
+author: "John-Mike Marquardt"
+title: "John-Mike Marquardt"
 description: "Blog and website of John-Mike Marquardt.  Full-Stack Web Developer."
 keywords: "marquardt, codemarq, john-mike, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -149,11 +149,8 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/codemarq"
+  
 
 ############
 # 404 page #
@@ -165,7 +162,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: codemarq
 keybase-in-social: True
 keybase-in-footer: True
 
